@@ -3,3 +3,5 @@ The project is generated using Intellij's sample content for polymer web applica
 
 Uncomment the line "    $include: '**/*.bootstrap.initialize.dart'"  in pubspec.yaml to trigger the issue.
 Comment to fix(uncommented by default);
+
+The error only occurs on chrome not on dartium.
